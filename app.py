@@ -217,11 +217,11 @@ st.markdown("""
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/axisgras-hash" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
   </a>
   
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ankitmishra97/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
   </a>
   
