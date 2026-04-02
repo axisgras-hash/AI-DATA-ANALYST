@@ -1,5 +1,5 @@
-# from google import genai
-import google.generativeai as genai
+from google import genai
+# import google.generativeai as genai
 import getpass
 from prompt import text_prompt
 import streamlit as st
