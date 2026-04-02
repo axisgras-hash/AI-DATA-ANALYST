@@ -208,3 +208,29 @@ if st.session_state.chat_mode:
                 else:
                     st.warning('To enable AI Features, you must pass API-KEY')
                     response = None
+
+st.markdown("""
+<hr>
+
+<p align="center">
+  Connect with me:
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+  </a>
+  
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  Made with ❤️ using Streamlit
+</p>
+""", unsafe_allow_html=True)
