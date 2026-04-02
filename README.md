@@ -46,6 +46,12 @@ This tool allows users to upload datasets and instantly generate:
 ### 📄 6. AI Report Generation
 - Generate complete analytical reports using AI
 
+### 📄 7. For Project Live Demo Scan this QR
+![Project Screenshot](https://github.com/axisgras-hash/AI-DATA-ANALYST/blob/main/Project_SS.png)
+![Project live Demo QR](https://github.com/axisgras-hash/AI-DATA-ANALYST/blob/main/Project%20URL.png)
+
+
+
 ---
 
 ## 🛠️ Tech Stack
